@@ -1,4 +1,4 @@
-# Project-Coffee-Machine
+# Java-Project-Coffee-Machine
 
 **About**
 
